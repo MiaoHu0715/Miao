@@ -1,0 +1,4 @@
+Zombie
+Ghosts
+Vampire
+Werewolf
